@@ -232,7 +232,7 @@ body {
 .s2 {
   text-align: center;
   float: left;
-  margin-left: 150px;
+  margin-left: 100px;
 
 
 }
@@ -256,7 +256,7 @@ body {
 .s3 {
   text-align: center;
   float: right;
-  margin-left: 150px;
+  margin-left: 100px;
   height: max-content;
   margin-top: 12px;
 
@@ -317,13 +317,13 @@ body {
 }
 
 .pixel-img {
-  margin-top: -18.5%;
+  margin-top: -10.5%;
   height: 480px;
 
 }
 
 .phone-img2 {
-  margin-top: -15%;
+  margin-top: -8.5%;
   left: 69%;
   position: absolute;
   width: fit-content;
@@ -343,6 +343,7 @@ body {
   margin-top: 82.7%;
   padding-bottom: 100px;
   font-size: small;
+  display: grid;
 
 }
 
@@ -427,7 +428,7 @@ body {
   color: #fff;
   width: max-content;
   margin-left: 123px;
-  margin-top: -397%;
+  margin-top: -357%;
   position: relative;
   left: 150px;
   font-size: 15px;
@@ -437,7 +438,7 @@ body {
 .placesto .col3 {
   color: #ffffff;
   width: max-content;
-  margin-top: -396%;
+  margin-top: -359%;
   position: relative;
   left: 600px;
   font-size: 15px;
@@ -448,7 +449,7 @@ body {
   line-height: 17px;
   color: #fff;
   width: max-content;
-  margin-top: -399%;
+  margin-top: -360%;
   position: relative;
   left: 950px;
   font-size: 15px;
@@ -489,7 +490,7 @@ body {
   float: right;
   position: relative;
   margin-top: 40px;
-  margin-right: 73px;
+  margin-right: 100px;
 }
 
 .social img{
