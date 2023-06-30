@@ -402,7 +402,8 @@ body {
   margin-left: 50px;
   border-radius: 10px;
   height: 45px;
-  border: 1.0px solid white;
+  border: 1.0px solid white;    
+  margin-bottom: 10px;
 
 }
 
