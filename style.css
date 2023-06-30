@@ -86,7 +86,7 @@ body {
   width: 100%;
   position: relative;
   right: 0%;
-  margin-top: 64px;
+  margin-top: 58px;
 }
 
 .top .search-container {
@@ -100,7 +100,7 @@ body {
 .search-input {
   padding: 20px;
   width: 600px;
-  border: 1px solid orangered;
+  border: 1px solid black;
   border-right: none;
   border-radius: 3px 0 0 3px;
   font-size: 16px;
@@ -297,10 +297,19 @@ body {
 .middle2 h2 {
   line-height: 20px;
 }
+.images .app:hover{
+  cursor: pointer;
+  height: 65px;
+}
+
+.images{
+  position: absolute;
+}
 
 .images .app {
   margin-left: 25px;
   border-radius: 20px;
+  height: 62px;
 }
 
 .images .play {
@@ -308,29 +317,33 @@ body {
   border-radius: 20px;
   height: 62px;
 }
+.images .play:hover{
+  cursor: pointer;
+  height: 65px;
+}
 
 .phone-img1 {
   left: 45%;
   position: absolute;
   width: fit-content;
-  margin-top: -27.5%;
+  margin-top: -15.7%;
 }
 
 .pixel-img {
-  margin-top: -10.5%;
+  margin-top: -34.5%;
   height: 480px;
 
 }
 
 .phone-img2 {
-  margin-top: -8.5%;
+
   left: 69%;
   position: absolute;
   width: fit-content;
 }
 
 .iphone-img {
-  margin-top: -33%;
+  margin-top: -34.5%;
   height: 480px;
 }
 
@@ -338,9 +351,9 @@ body {
 /* Footer */
 
 .footer {
-  flex-basis: content;
+
   background-color: black;
-  margin-top: 82.7%;
+  margin-top: 79.5%;
   padding-bottom: 100px;
   font-size: small;
   display: grid;
@@ -358,6 +371,10 @@ body {
   margin-top: -280px;
   height: max-content;
   width: max-content;
+}
+.topfooter p:hover{
+  cursor: pointer;
+  opacity: 0.5;
 }
 
 .list3 {
@@ -408,23 +425,23 @@ body {
   
 }
 
-.placesto {
+#re-place {
   margin-top: 30px;
   margin-left: 40px;
 }
 
-.placesto p:hover{
+#re-place p:hover{
   opacity: 0.5;
   cursor: pointer;
 }
 
-.placesto .col1 {
+#re-place .col1 {
   color: #fff;
   width: max-content;
   font-size: 15px;
 }
 
-.placesto .col2 {
+#re-place .col2 {
   color: #fff;
   width: max-content;
   margin-left: 123px;
@@ -435,7 +452,7 @@ body {
   line-height: 17px;
 }
 
-.placesto .col3 {
+#re-place .col3 {
   color: #ffffff;
   width: max-content;
   margin-top: -359%;
@@ -445,7 +462,7 @@ body {
 
 }
 
-.placesto .col4 {
+#re-place .col4 {
   line-height: 17px;
   color: #fff;
   width: max-content;
