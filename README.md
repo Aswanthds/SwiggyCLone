@@ -1,3 +1,3 @@
 # SwiggyCLone
 
-Original Site : https//www.swiggy.com
+Original Site : https://www.swiggy.com
